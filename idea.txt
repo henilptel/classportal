@@ -1,0 +1,29 @@
+henil 
+
+test1 	- 50/50 
+test2 	-45/50
+quiz1 	-25/50
+quiz2	-21/50
+
+
+
+		test1	test2	quiz1	quiz2
+henil		50	45
+mayur		48	46
+hemu		48
+
+
+
+		henil	mayur	hemu
+test1		50	46
+test2		45		
+test3
+
+
+
+create file for every test
+
+
+
+Problems kept for future: 
+1) the use of exit(1)

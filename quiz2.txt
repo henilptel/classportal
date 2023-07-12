@@ -1,0 +1,6 @@
+aryan 1 45
+anish 2 12
+apoorva 3 45
+aryanc 4 56
+aryanpr 5 23
+henil 21 100
